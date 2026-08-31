@@ -1,7 +1,7 @@
 version: 2026.232.0520
 a11y-tools:
     candy:
-        version: 2026.144.1443
+        version: 2026.243.0908
         description: |
             AT-SPI accessibility bindings importable from the system Python 3
             Installs the AT-SPI2 Python bindings (pyatspi) and PyGObject (gi) into the
@@ -63,7 +63,7 @@ a11y-tools-skill:
             
             ```yaml
             require:
-              - '@github.com/opencharly/pod-dbus:v2026.235.2115'
+              - '@github.com/opencharly/pod-dbus:vTAG'
             
             rpm:
               packages:
