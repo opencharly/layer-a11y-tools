@@ -63,7 +63,7 @@ a11y-tools-skill:
             
             ```yaml
             require:
-              - '@github.com/opencharly/pod-dbus:vTAG'
+              - '@github.com/opencharly/pod-dbus'
             
             rpm:
               packages:
