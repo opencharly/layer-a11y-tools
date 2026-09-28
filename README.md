@@ -48,7 +48,6 @@ have pixi's Python first on PATH, and it does not see the system packages.
 
 - `charly.yml` — the `a11y-tools:` candy entity (`require:`, package sections,
   `plan:` checks) and the embedded `a11y-tools-skill:` skill entity.
-- `.github/workflows/` — the org-wide `charly/pr-validator` gate; no per-repo candy gate.
 - `.github/workflows/tag-on-merge.yml` — CalVer tag + `CHANGELOG/` on merge.
 - `README.md` — this user overview.
 
