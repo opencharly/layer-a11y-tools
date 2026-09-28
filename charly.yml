@@ -1,7 +1,5 @@
-version: 2026.232.0520
 a11y-tools:
     candy:
-        version: 2026.243.0908
         description: |
             AT-SPI accessibility bindings importable from the system Python 3
             Installs the AT-SPI2 Python bindings (pyatspi) and PyGObject (gi) into the
